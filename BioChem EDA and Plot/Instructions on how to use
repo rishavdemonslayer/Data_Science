@@ -1,0 +1,3 @@
+Add jupyter ntebook extension in your VS Code editor.
+create a new file in your VS Code in the format "your_file_name_here.ipynb"
+Simply copy-paste and run the biochemplot.ipynb in your VS Code. 
